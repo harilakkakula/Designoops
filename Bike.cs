@@ -16,6 +16,7 @@ namespace VirtualMethod
         public void Avegrage()
         {
             Console.WriteLine($"This is Bike so , my Avg is 20+{distance - 5 / fuel}");
+            //average
         }
         public override void speed()
         {
