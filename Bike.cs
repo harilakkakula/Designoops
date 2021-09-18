@@ -10,7 +10,7 @@ namespace VirtualMethod
     {
         public Bike(double distance,double hour,double fuel):base(distance,hour,fuel)
         {
-
+            //this is constructor
         }
 
         public void Avegrage()
