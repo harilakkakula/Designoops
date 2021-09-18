@@ -1,0 +1,13 @@
+
+bin/Debug/VirtualMethod.exe
+bin/Debug/VirtualMethod.exe.config
+bin/Debug/VirtualMethod.pdb
+obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+obj/Debug/VirtualMethod.csproj.AssemblyReference.cache
+obj/Debug/VirtualMethod.csproj.CoreCompileInputs.cache
+obj/Debug/VirtualMethod.csproj.FileListAbsolute.txt
+obj/Debug/VirtualMethod.exe
+obj/Debug/VirtualMethod.pdb
+Properties/AssemblyInfo.cs
+.vs/VirtualMethod/v16/.suo
