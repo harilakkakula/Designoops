@@ -11,7 +11,7 @@ namespace VirtualMethod
 
         public Car(double distance,double hour,double fuel):base(distance,hour,fuel)
         {
-
+            //this comment
         }
         public void Avegrage()
         {
